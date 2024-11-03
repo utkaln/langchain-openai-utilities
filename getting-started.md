@@ -4,6 +4,6 @@
 - Create virtual environment by choosing from Command Palette
 - Remember to delete the terminal and open a new one to reset and take effect of virtual environment
 
-## Install OpenAI 
+
 
 

@@ -15,3 +15,6 @@ Generative AI utilities using Open AI API with Langchain Framework
 
 # Build a Chatbot
 [Chatbot.md](./Chatbot-Howto.md)
+
+# Converse with a Search Engine
+[Integration with Tavily](./src/search/tavily-search.ipynb)
