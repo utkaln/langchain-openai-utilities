@@ -18,3 +18,8 @@ Generative AI utilities using Open AI API with Langchain Framework
 
 # Converse with a Search Engine
 [Integration with Tavily](./src/search/tavily-search.ipynb)
+
+# Build an Agent for External API Call
+- Uses Langgraph React and Memory
+- [How To Implement an Agent](./agent-how-to.md)
+- [Example Implementation](./src/agent/agent_oai.ipynb)
